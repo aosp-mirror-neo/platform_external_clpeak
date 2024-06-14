@@ -1,0 +1,16 @@
+name: "clpeak"
+description:
+    "A synthetic benchmarking tool to measure peak capabilities of opencl devices."
+
+third_party {
+homepage: "https://github.com/krrishnarraj/clpeak"
+  identifier {
+    type: "Archive"
+    value: "https://github.com/krrishnarraj/clpeak"
+    primary_source: true
+  }
+  version: "1.1.2"
+  last_upgrade_date { year: 2024 month: 5 day: 30 }
+  license_type: NOTICE
+}
+
