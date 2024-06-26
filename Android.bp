@@ -36,7 +36,7 @@ cc_benchmark {
         "-fexceptions",
     ],
     shared_libs: [
-        "libOpenCL",
+        "//external/OpenCL-ICD-Loader:libOpenCL",
     ],
     local_include_dirs: [
         "include",
