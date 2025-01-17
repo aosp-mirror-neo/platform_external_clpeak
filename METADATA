@@ -1,16 +1,21 @@
-name: "clpeak"
-description:
-    "A synthetic benchmarking tool to measure peak capabilities of opencl devices."
+# This project was upgraded with external_updater.
+# Usage: tools/external_updater/updater.sh update external/clpeak
+# For more info, check https://cs.android.com/android/platform/superproject/main/+/main:tools/external_updater/README.md
 
+name: "clpeak"
+description: "A synthetic benchmarking tool to measure peak capabilities of opencl devices."
 third_party {
-homepage: "https://github.com/krrishnarraj/clpeak"
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2025
+    month: 1
+    day: 16
+  }
+  homepage: "https://github.com/krrishnarraj/clpeak"
   identifier {
     type: "Archive"
-    value: "https://github.com/krrishnarraj/clpeak"
+    value: "https://github.com/krrishnarraj/clpeak/archive/1.1.4.zip"
+    version: "1.1.4"
     primary_source: true
   }
-  version: "1.1.2"
-  last_upgrade_date { year: 2024 month: 5 day: 30 }
-  license_type: NOTICE
 }
-
