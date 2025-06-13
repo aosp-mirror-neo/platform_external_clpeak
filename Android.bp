@@ -41,7 +41,7 @@ cc_benchmark {
     ],
     cflags: [
         "-DCL_TARGET_OPENCL_VERSION=120",
-        "-DVERSION_STR=\"1.1.4\"",
+        "-DVERSION_STR=\"1.1.5\"",
         "-fexceptions",
     ],
     local_include_dirs: [
