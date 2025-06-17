@@ -8,14 +8,14 @@ third_party {
   license_type: NOTICE
   last_upgrade_date {
     year: 2025
-    month: 1
-    day: 16
+    month: 6
+    day: 13
   }
   homepage: "https://github.com/krrishnarraj/clpeak"
   identifier {
     type: "Archive"
-    value: "https://github.com/krrishnarraj/clpeak/archive/1.1.4.zip"
-    version: "1.1.4"
+    value: "https://github.com/krrishnarraj/clpeak/archive/1.1.5.zip"
+    version: "1.1.5"
     primary_source: true
   }
 }
