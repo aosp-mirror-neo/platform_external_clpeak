@@ -7,15 +7,15 @@ description: "A synthetic benchmarking tool to measure peak capabilities of open
 third_party {
   license_type: NOTICE
   last_upgrade_date {
-    year: 2025
-    month: 6
-    day: 13
+    year: 2026
+    month: 3
+    day: 10
   }
   homepage: "https://github.com/krrishnarraj/clpeak"
   identifier {
     type: "Archive"
-    value: "https://github.com/krrishnarraj/clpeak/archive/1.1.5.zip"
-    version: "1.1.5"
+    value: "https://github.com/krrishnarraj/clpeak/archive/1.1.6.zip"
+    version: "1.1.6"
     primary_source: true
   }
 }
